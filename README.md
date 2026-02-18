@@ -98,4 +98,4 @@ This file contains all scenarios and test cases for each module.
 Software Tester (Fresher)  
 Skills: Manual Testing, Java, SQL, Postman  
 
-GitHub: [https://github.com/lakshmithavamani](https://github.com/lakshmithavamani)
+GitHub: https://github.com/lakshmithavamani/ATM_STIMULATION_Testscenarios_and_Testcases
